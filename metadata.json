@@ -1,0 +1,7 @@
+{
+  "name": "Number Recall Trainer",
+  "description": "A simple web application to train your short-term memory by recalling sequences of numbers. Customize the difficulty and track your progress.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
